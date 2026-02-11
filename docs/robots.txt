@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://familytreednaguide.readthedocs.io/en/latest/
